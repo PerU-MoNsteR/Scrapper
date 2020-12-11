@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#!/bin/env python3
-# Modified by @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
-# Please give me credits if you use any codes from here.
-
 
 import os, sys
 import configparser
@@ -37,5 +31,4 @@ setup.close()
 print(gr+"[+] Setup complete!")
 print(gr+"[+] Now you can run any tool!")
 print(gr+"[+] Make sure to read README.md before using this tool.")
-print(gr+"[+] https://github.com/AbirHasan2005/TelegramScraper/blob/master/README.md")
-print("\033[92m[+] Telegram Group: \033[96mhttp://t.me/linux_repo\033[0m")
+print(gr+"[+] https://github.com/PerU-MoNsteR/Scrapperr/blob/master/README.md")
