@@ -1,4 +1,4 @@
-# TelegramScraper v1.3 
+# TelegramScraper v1.3
 
 
 ## How to Setup API:
